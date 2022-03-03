@@ -1,3 +1,5 @@
+ARCHIVED: an editable fork of this repo is no longer required.
+
 WAL-E
 =====
 ---------------------------------
